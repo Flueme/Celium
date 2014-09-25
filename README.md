@@ -1,4 +1,4 @@
 Celium
 ======
 
-JavaScript framework for web application development
+JavaScript library for web application development
